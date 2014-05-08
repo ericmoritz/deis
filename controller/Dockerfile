@@ -21,7 +21,7 @@ RUN pip install celery==3.1.8 \
                 django-yamlfield==0.5 \
                 djangorestframework==2.3.13 \
                 gunicorn==18.0 \
-                paramiko==1.12.1 \
+                paramiko==1.14.0 \
                 psycopg2==2.5.2 \
                 pycrypto==2.6.1 \
                 python-etcd==0.3.0 \
